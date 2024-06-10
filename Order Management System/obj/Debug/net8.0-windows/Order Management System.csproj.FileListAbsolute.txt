@@ -1,0 +1,17 @@
+E:\madebyME\Order Management System\bin\Debug\net8.0-windows\Order Management System.exe
+E:\madebyME\Order Management System\bin\Debug\net8.0-windows\Order Management System.deps.json
+E:\madebyME\Order Management System\bin\Debug\net8.0-windows\Order Management System.runtimeconfig.json
+E:\madebyME\Order Management System\bin\Debug\net8.0-windows\Order Management System.dll
+E:\madebyME\Order Management System\bin\Debug\net8.0-windows\Order Management System.pdb
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order_Management_System.Form_Order.resources
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order_Management_System.Form_Items.resources
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.csproj.GenerateResource.cache
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.AssemblyInfoInputs.cache
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.AssemblyInfo.cs
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.csproj.CoreCompileInputs.cache
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.dll
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\refint\Order Management System.dll
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.pdb
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\Order Management System.genruntimeconfig.cache
+E:\madebyME\Order Management System\obj\Debug\net8.0-windows\ref\Order Management System.dll
